@@ -20,11 +20,11 @@ This repository contains ready-to-deploy, minimal example applications built for
 
 ## How to Deploy via CLI
 
-Vessl supports deploying directly from the command line using the `--dir` flag to target a specific subdirectory within a repository.
+Vessl supports deploying official templates directly from the command line using the `--template` shorthand.
 
 ```bash
 # Example: Deploying the Go Fiber template
-vessld deploy https://github.com/vesslhq/vessl-examples.git --dir go-fiber
+vessld deploy --template go-fiber
 ```
 
 ## Contributing
