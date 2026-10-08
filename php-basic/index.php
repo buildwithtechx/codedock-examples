@@ -1,3 +1,3 @@
 <?php
 header('Content-Type: application/json');
-echo json_encode(['message' => 'Hello from Vessl PHP Example!']);
+echo json_encode(['message' => 'Hello from Codedock PHP Example!']);

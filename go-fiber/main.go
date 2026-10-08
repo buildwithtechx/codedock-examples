@@ -12,7 +12,7 @@ func main() {
 
 	app.Get("/", func(c *fiber.Ctx) error {
 		return c.JSON(fiber.Map{
-			"message": "Hello from Vessl Go Fiber Example!",
+			"message": "Hello from Codedock Go Fiber Example!",
 		})
 	})
 

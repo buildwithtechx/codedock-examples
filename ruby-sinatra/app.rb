@@ -6,5 +6,5 @@ set :bind, '0.0.0.0'
 
 get '/' do
   content_type :json
-  { message: 'Hello from Vessl Ruby Sinatra Example!' }.to_json
+  { message: 'Hello from Codedock Ruby Sinatra Example!' }.to_json
 end

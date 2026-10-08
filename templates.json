@@ -1,0 +1,34 @@
+{
+  "templates": [
+    {
+      "id": "go-fiber",
+      "name": "Go Fiber",
+      "description": "Minimal Go API built on Fiber",
+      "logo": "logos/go-fiber.svg"
+    },
+    {
+      "id": "node-express",
+      "name": "Node Express",
+      "description": "Minimal Node.js API built on Express",
+      "logo": "logos/node-express.svg"
+    },
+    {
+      "id": "php-basic",
+      "name": "PHP Basic",
+      "description": "Minimal PHP app returning JSON",
+      "logo": "logos/php-basic.svg"
+    },
+    {
+      "id": "python-fastapi",
+      "name": "Python FastAPI",
+      "description": "Minimal Python API built on FastAPI",
+      "logo": "logos/python-fastapi.svg"
+    },
+    {
+      "id": "ruby-sinatra",
+      "name": "Ruby Sinatra",
+      "description": "Minimal Ruby API built on Sinatra",
+      "logo": "logos/ruby-sinatra.svg"
+    }
+  ]
+}

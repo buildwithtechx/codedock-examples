@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.json({ message: 'Hello from Vessl Node.js Express Example!' });
+  res.json({ message: 'Hello from Codedock Node.js Express Example!' });
 });
 
 app.listen(port, () => {

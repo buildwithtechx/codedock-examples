@@ -6,7 +6,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello from Vessl Python FastAPI Example!"}
+    return {"message": "Hello from Codedock Python FastAPI Example!"}
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 3000))
