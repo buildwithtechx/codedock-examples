@@ -1,5 +1,5 @@
 {
-    "name": "vessl/php-example",
-    "description": "Vessl PHP Example",
+    "name": "codedock/php-basic-example",
+    "description": "Codedock Example - PHP Basic",
     "require": {}
 }

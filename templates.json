@@ -1,10 +1,40 @@
 {
   "templates": [
     {
+      "id": "deno-http",
+      "name": "Deno HTTP",
+      "description": "Minimal Deno API using Deno.serve",
+      "logo": "logos/deno-http.svg"
+    },
+    {
+      "id": "docker-node",
+      "name": "Docker Node",
+      "description": "Node.js Express app with an explicit Dockerfile",
+      "logo": "logos/docker-node.svg"
+    },
+    {
       "id": "go-fiber",
       "name": "Go Fiber",
       "description": "Minimal Go API built on Fiber",
       "logo": "logos/go-fiber.svg"
+    },
+    {
+      "id": "go-gin",
+      "name": "Go Gin",
+      "description": "Minimal Go API built on Gin",
+      "logo": "logos/go-gin.svg"
+    },
+    {
+      "id": "go-stdlib",
+      "name": "Go Standard Library",
+      "description": "Minimal Go API using only the standard library",
+      "logo": "logos/go-stdlib.svg"
+    },
+    {
+      "id": "java-spring",
+      "name": "Java Spring",
+      "description": "Minimal Java API built on Spring Boot",
+      "logo": "logos/java-spring.svg"
     },
     {
       "id": "node-express",
@@ -13,10 +43,34 @@
       "logo": "logos/node-express.svg"
     },
     {
+      "id": "node-fastify",
+      "name": "Node Fastify",
+      "description": "Minimal Node.js API built on Fastify",
+      "logo": "logos/node-fastify.svg"
+    },
+    {
+      "id": "node-nextjs",
+      "name": "Node Next.js",
+      "description": "Minimal Next.js app with App Router",
+      "logo": "logos/node-nextjs.svg"
+    },
+    {
       "id": "php-basic",
       "name": "PHP Basic",
       "description": "Minimal PHP app returning JSON",
       "logo": "logos/php-basic.svg"
+    },
+    {
+      "id": "php-slim",
+      "name": "PHP Slim",
+      "description": "Minimal PHP API built on Slim",
+      "logo": "logos/php-slim.svg"
+    },
+    {
+      "id": "python-django",
+      "name": "Python Django",
+      "description": "Minimal Python API built on Django",
+      "logo": "logos/python-django.svg"
     },
     {
       "id": "python-fastapi",
@@ -25,10 +79,28 @@
       "logo": "logos/python-fastapi.svg"
     },
     {
+      "id": "python-flask",
+      "name": "Python Flask",
+      "description": "Minimal Python API built on Flask",
+      "logo": "logos/python-flask.svg"
+    },
+    {
       "id": "ruby-sinatra",
       "name": "Ruby Sinatra",
       "description": "Minimal Ruby API built on Sinatra",
       "logo": "logos/ruby-sinatra.svg"
+    },
+    {
+      "id": "rust-axum",
+      "name": "Rust Axum",
+      "description": "Minimal Rust API built on Axum",
+      "logo": "logos/rust-axum.svg"
+    },
+    {
+      "id": "static-html",
+      "name": "Static HTML",
+      "description": "Minimal static HTML site",
+      "logo": "logos/static-html.svg"
     }
   ]
 }

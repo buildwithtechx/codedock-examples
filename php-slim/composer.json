@@ -1,0 +1,9 @@
+{
+    "name": "codedock/php-slim-example",
+    "description": "Codedock Example - PHP Slim",
+    "require": {
+        "php": ">=8.1",
+        "slim/slim": "^4.13",
+        "slim/psr-7": "^1.6"
+    }
+}

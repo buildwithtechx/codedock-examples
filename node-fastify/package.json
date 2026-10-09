@@ -1,12 +1,12 @@
 {
-  "name": "node-express-example",
+  "name": "node-fastify-example",
   "version": "1.0.0",
-  "description": "Codedock Example - Node.js Express",
+  "description": "Codedock Example - Node.js Fastify",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "fastify": "^5.0.0"
   }
 }

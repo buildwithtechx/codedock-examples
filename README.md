@@ -6,11 +6,23 @@ This repository contains ready-to-deploy, minimal example applications built for
 
 ## Available Templates
 
-* **[Node.js Express](./node-express)**
+* **[Deno HTTP](./deno-http)**
+* **[Docker Node](./docker-node)**
 * **[Go Fiber](./go-fiber)**
-* **[Python FastAPI](./python-fastapi)**
-* **[Ruby Sinatra](./ruby-sinatra)**
+* **[Go Gin](./go-gin)**
+* **[Go Standard Library](./go-stdlib)**
+* **[Java Spring](./java-spring)**
+* **[Node.js Express](./node-express)**
+* **[Node.js Fastify](./node-fastify)**
+* **[Node.js Next.js](./node-nextjs)**
 * **[PHP Basic](./php-basic)**
+* **[PHP Slim](./php-slim)**
+* **[Python Django](./python-django)**
+* **[Python FastAPI](./python-fastapi)**
+* **[Python Flask](./python-flask)**
+* **[Ruby Sinatra](./ruby-sinatra)**
+* **[Rust Axum](./rust-axum)**
+* **[Static HTML](./static-html)**
 
 Each template ships a `templates.json` entry with its display name, description, and logo, which the Codedock dashboard reads to render the examples catalogue.
 

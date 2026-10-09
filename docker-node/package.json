@@ -1,7 +1,7 @@
 {
-  "name": "node-express-example",
+  "name": "docker-node-example",
   "version": "1.0.0",
-  "description": "Codedock Example - Node.js Express",
+  "description": "Codedock Example - Docker Node.js Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

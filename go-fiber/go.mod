@@ -1,4 +1,4 @@
-module github.com/vesslhq/vessl-examples/go-fiber
+module github.com/buildwithtechx/codedock-examples/go-fiber
 
 go 1.22
 
